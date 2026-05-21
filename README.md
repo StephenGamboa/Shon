@@ -1,2 +1,2 @@
 # Shon
-IT-skills
+GE-IT skills portfolio
