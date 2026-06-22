@@ -1,0 +1,48 @@
+# Data Analytics & Visual Report
+
+## Dataset Focus
+Davao Region Agricultural Production Index (CSV Analysis)
+
+### 1. Data Cleaning Protocol Log
+
+**Raw Input Problems**
+- Missing values in production data
+- Duplicate municipality records
+- Mixed units (kg and Metric Tons)
+- Extra spaces in province names
+
+**AI Cleaning Actions**
+- Removed duplicate records
+- Filled missing values using median production per crop
+- Converted all production values to Metric Tons (MT)
+- Standardized municipality and province names
+- Converted numeric columns to proper data types
+
+**Result**
+- Processed 150 records
+- Corrected 12 missing values
+- Removed 8 duplicate entries
+
+---
+
+### 2. Visualization 1
+
+*(Bar Chart: Crop Production by Province)*
+
+---
+
+### 3. Visualization 2
+
+*(Line Chart: Annual Production Trend)*
+
+---
+
+### 4. Human Analysis
+
+The cleaned dataset indicates that agricultural production differs significantly among provinces in the Davao Region. Areas with stronger logistics infrastructure consistently reported higher yields, while municipalities affected by extreme weather events experienced production declines. These findings highlight the need for investments in climate-resilient farming practices, improved farm-to-market roads, and post-harvest facilities to strengthen food security and support sustainable regional development.
+
+---
+
+### 5. Conclusion
+
+AI significantly accelerated the cleaning and visualization process, but human validation remained necessary to verify the accuracy of corrections and ensure that the resulting analysis accurately reflects the socio-economic realities of Mindanao.
