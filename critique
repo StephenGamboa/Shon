@@ -1,0 +1,69 @@
+# Literature Verification Log
+
+## Topic: Agricultural Supply Chain Resilience in the Davao Region
+
+### 1. AI Prompt Used
+
+```text
+Act as an Academic Research Associate specializing in Mindanao development studies.
+
+Generate a literature review on agricultural supply chain resilience in the Davao Region from 2020–2025.
+
+Requirements:
+- Focus on banana, cacao, coconut, and coffee industries.
+- Summarize findings from peer-reviewed journals, government publications, and policy reports.
+- Discuss logistics, climate resilience, farmer cooperatives, market access, and post-harvest facilities.
+- Use a formal academic tone.
+- Do not invent statistics or citations.
+- Clearly distinguish facts from recommendations.
+- Present the output in Markdown.
+```
+
+---
+
+## 2. AI-Generated Summary Audit
+
+| AI-Generated Statement / Citation | Source Vetted Against | Status | Human Correction / Empirical Note |
+|-----------------------------------|-----------------------|--------|-----------------------------------|
+| "The Davao Region remains one of the country's leading producers of bananas and cacao." | Philippine Statistics Authority (PSA) Agricultural Statistics | ✅ **Verified** | Confirmed through PSA agricultural production reports. |
+| "Farmer cooperatives improve market access and strengthen bargaining power among smallholder farmers." | Cooperative Development Authority (CDA); Department of Agriculture (DA) | ✅ **Verified** | Government reports support the role of cooperatives in improving marketing efficiency. |
+| "Poor road conditions and inadequate cold storage continue to affect agricultural logistics." | Department of Agriculture (DA) Regional Field Office XI Reports | ✅ **Verified** | Supported by regional infrastructure and logistics assessments. |
+| "The Davao Region contributes over 70% of the world's cacao production." | Philippine Cacao Industry Roadmap; PSA | ❌ **Hallucination** | No official publication supports this claim. AI exaggerated the region's global contribution. |
+| "Climate change increases transportation delays and post-harvest losses during heavy rainfall." | Mindanao Development Authority (MinDA); National Economic and Development Authority (NEDA) | ✅ **Verified** | Climate adaptation reports identify weather disruptions as a major logistics challenge. |
+| "Every municipality in Davao Region already has fully operational cold storage facilities." | Department of Agriculture Infrastructure Reports | ❌ **Hallucination** | Cold-chain facilities remain limited and unevenly distributed across municipalities. |
+
+---
+
+## 3. Human Verification Process
+
+### Verification Checklist
+
+- ✔ Cross-checked statistics with official government publications.
+- ✔ Compared AI-generated summaries with primary source documents.
+- ✔ Removed unsupported numerical claims.
+- ✔ Verified publication dates and citations.
+- ✔ Distinguished factual evidence from AI-generated opinions.
+- ✔ Corrected misleading or exaggerated statements.
+
+---
+
+## 4. Critical Reflection on Tool Limitations
+
+Artificial intelligence proved valuable in quickly summarizing lengthy journal articles and government reports, significantly reducing the time required for literature synthesis. However, the generated output occasionally included fabricated statistics, overstated regional achievements, and unsupported citations. In several cases, projected policy targets were incorrectly presented as current accomplishments. These errors demonstrate that AI should function only as a research assistant rather than a final authority. Human verification remains essential for confirming empirical evidence, validating references, and ensuring that policy recommendations are based on credible and accurate information. Combining AI efficiency with rigorous human review strengthens the reliability, transparency, and academic integrity of research outputs.
+
+---
+
+## 5. Verified Primary Sources
+
+- Philippine Statistics Authority (PSA)
+- Department of Agriculture – Regional Field Office XI
+- Mindanao Development Authority (MinDA)
+- National Economic and Development Authority (NEDA)
+- Cooperative Development Authority (CDA)
+- Philippine Cacao Industry Roadmap
+
+---
+
+## 6. Portfolio Reflection
+
+This project demonstrates the responsible use of artificial intelligence in academic research. While AI efficiently summarized multiple sources, it also produced occasional factual inaccuracies and unsupported claims. Through systematic verification against official government reports and primary references, these issues were identified and corrected before inclusion in the final literature review. This experience highlights the importance of combining AI-assisted research with critical human evaluation to produce reliable, evidence-based policy recommendations for Mindanao's agricultural development.
